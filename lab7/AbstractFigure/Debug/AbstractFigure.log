@@ -1,6 +1,0 @@
-﻿  AbstractFigure.cpp
-c:\users\пользователь\documents\visual studio 2015\projects\abstractfigure\abstractfigure\abstractfigure.cpp(161): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
-c:\users\пользователь\documents\visual studio 2015\projects\abstractfigure\abstractfigure\abstractfigure.cpp(165): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
-c:\users\пользователь\documents\visual studio 2015\projects\abstractfigure\abstractfigure\abstractfigure.cpp(167): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
-c:\users\пользователь\documents\visual studio 2015\projects\abstractfigure\abstractfigure\abstractfigure.cpp(171): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
-  AbstractFigure.vcxproj -> c:\users\пользователь\documents\visual studio 2015\Projects\AbstractFigure\Debug\AbstractFigure.exe

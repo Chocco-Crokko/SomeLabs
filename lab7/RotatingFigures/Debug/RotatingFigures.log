@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(37): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(40): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(95): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(96): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(124): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(125): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(154): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(155): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(156): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(157): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(158): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\пользователь\documents\visual studio 2015\projects\rotatingfigures\rotatingfigures\figure.h(159): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+  RotatingFigures.vcxproj -> C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\RotatingFigures\Debug\RotatingFigures.exe
+  RotatingFigures.vcxproj -> C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\RotatingFigures\Debug\RotatingFigures.pdb (Partial PDB)
